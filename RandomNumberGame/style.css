@@ -1,0 +1,24 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: black;
+}
+h1{
+    font-family: 'Train One', cursive;
+    font-size: 3rem;
+    text-align: center;
+    color: cornsilk;
+}
+p{
+    color: cornsilk;
+}
+div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+button:hover{
+    color: crimson;
+    background-color: black;
+}
